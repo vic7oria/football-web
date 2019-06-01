@@ -1,0 +1,165 @@
+body {
+    font-family: sans-serif;
+    color: darkblue; 
+    background-color: skyblue;
+ }
+header {
+    height: 250px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: url(../../Pics/design2_image1.jpg) no-repeat;
+    background-size: cover;
+    background-position: 0 50px;
+}
+#puppet {
+   text-align: center;
+  }
+h1 {
+  position: relative;
+  margin: 0;
+  border: 0;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 30px;
+  display: block;
+  }
+.bigger {
+  font-size: 35px;
+}
+h2 {
+  position: relative;
+  font-size: 25px;
+  font-weight: bold;
+ }
+h3 {
+	padding: inherit;
+  font-size: 20px;
+  font-weight: bold;
+}
+.tres {
+  padding: inherit;
+  font-size: 20px;
+  font-weight: bold;
+}
+.italian {
+  font-style: italic;
+}
+h4 {
+  text-decoration: underline;
+}
+.cuatro {
+  text-decoration: underline;
+}
+p {
+  margin-top: 10px; 
+  margin-left: 20px;
+  line-height: 1.6;
+}
+.free {
+  height: 130px;
+  width: 130px;
+  position: absolute;
+  top: 60px;
+  left: 20px;
+}
+#subtitle {
+  height: 35px;
+  width: 100%;
+  background-color: #2ECC40;
+  text-align: center;
+  top: 190px;
+  outline-style: solid;
+  outline-color: darkblue;
+  }
+aside {
+  position: relative;
+  float: left;
+  top: 40px;
+  right: 0;
+  font-size: 18px;
+  font-weight: bold; 
+  width: 20%;
+   }
+section {
+  text-align: left;
+  float: right;
+  width: 75%;
+  margin-top: 20px;
+  border: 5px;
+  padding: 10px;
+  position: relative;
+ }
+.navigate {
+  margin: 5px;
+  border: 5px;
+  border-radius: 6px;
+  padding: 5px;
+  display: block;
+  width: 50%;
+  height: 30%;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #2ECC40;
+  border: solid;
+  border-color: darkblue;
+  }
+.navigate:hover {
+  background-color: darkblue;
+  color: white;
+}
+.different {
+  margin-top: inherit;
+}
+.square {
+	list-style-type: square;
+}
+.circle {
+	list-style-type: circle;
+}
+.undostres {
+	list-style-type: decimal;
+}
+.abc {
+	list-style-type: lower-alpha;
+}
+.inline {
+	font-weight: bold;
+}
+table {
+  border-collapse: collapse;
+  width: 80%;
+  table-layout: fixed;
+  text-align: center;
+  vertical-align: middle;
+}
+th {
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 120%;
+}
+.nounder {
+  text-decoration: none;
+  text-align: left;
+}
+th,
+td {
+  border: 1px;
+  padding: 10px 15px;
+}
+.Authorization {
+  font-weight: bold;
+}
+.left {
+  float: left;
+  width: 45%;
+  }
+.right {
+  float: right;
+  width: 50%;
+}
+#center {
+  margin: 0 auto;
+  text-align: center;
+}

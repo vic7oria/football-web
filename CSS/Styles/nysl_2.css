@@ -1,0 +1,100 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    color: black;
+    height: 250px;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width: 100%;
+    background: url(../../Pics/design2_image1.jpg) no-repeat;
+    background-size: cover;
+    background-position: 0 50px;
+}
+.top-pic {
+    position: relative;
+    top: 0;
+    height: 200px;
+    width: 100%;
+    z-index: -1;
+}
+#puppet {
+  color: black;
+  font-style: italic;
+  }
+h1 {
+  position: absolute;
+  margin: 5px;
+  border: 5px;
+  padding: 5px;
+  color: black;
+  font-size: 30px;
+  display: inline-block;
+}
+h2 {
+  text-align: left;
+  position: relative;
+  font-size: 25px;
+ }
+h3 {
+  font-size: 20px;
+}
+p {
+  margin-top: 0; 
+  margin-left: 20px;
+}
+.free {
+  height: 130px;
+  width: 130px;
+  position: absolute;
+  top: 300px;
+  left: 20px;
+}
+#subtitle {
+  height: 30px;
+  width: 100%;
+  background: white;
+  text-align: center;
+  color: black;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  outline-style: solid;
+  outline-color: black;
+  top: 250px;
+  }
+aside {
+  position: absolute;
+  top: 40px;
+  right: 0;
+  font-size: 14px;
+  width: 50%;
+   }
+section {
+  text-align: left;
+  float: right;
+  width: 75%;
+  margin-top: 30px;
+  border: 5px;
+  padding: 5px;
+  position: relative;
+ }
+.navigate {
+  margin: 5px;
+  border: 0;
+  padding: 0;
+  display: inline;
+  width: 10%;
+  height: 30%;
+  background-color: royalblue;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  outline-style: solid;
+  outline-color: black;
+}
+.different {
+  margin-top: inherit;
+}
